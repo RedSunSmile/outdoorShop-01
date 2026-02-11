@@ -268,9 +268,9 @@ GET /api/v1/members
 
 ## 👤 개발자
 
-**이름:** [본인 이름]  
-**GitHub:** [GitHub 링크]  
-**Blog:** [블로그 링크]
+**이름:** [한지윤 HAN JI YOON]  
+**GitHub:** [https://github.com/RedSunSmile/outdoorShop-01.git]
+**Blog:** [https://www.notion.so/PRD-Product-Requirement-Document-2efd3d9379728060894cf16dd76fd4a4?source=copy_link]
 
 ---
 
